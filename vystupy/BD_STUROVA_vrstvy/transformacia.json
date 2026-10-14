@@ -1,0 +1,24 @@
+{
+  "source_offset": [
+    4800000,
+    -1800000
+  ],
+  "source_scale_to_m": 0.001,
+  "row_vector_rotation": [
+    [
+      0.8291480666867275,
+      0.5590290542625328
+    ],
+    [
+      -0.5590290542625328,
+      0.8291480666867277
+    ]
+  ],
+  "translation_EN": [
+    -440327.457292723,
+    -1242592.0186945277
+  ],
+  "EPSG": 8353,
+  "fit_rmse_m": 1.2655706597914294,
+  "status": "ORIENTACNE, bez nezavisleho geodetickeho overenia"
+}

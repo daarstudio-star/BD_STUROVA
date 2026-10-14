@@ -1,0 +1,302 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 2531,
+    "sha256": "07d53c33ab904577c44da3bc40bbcc23ea9cd42ae32f627bfc35ffa286631701"
+  },
+  {
+    "path": "index.html",
+    "bytes": 12166460,
+    "sha256": "f18f19ec2ab9edeebd906b42433be86e522e2230d544e924cc29641141952ae5"
+  },
+  {
+    "path": "podklady/AA.pdf",
+    "bytes": 887808,
+    "sha256": "603f7fbc4b0e3e63dc617eeba49f0652fe5ac857bec784205c5818729fbf8047"
+  },
+  {
+    "path": "podklady/AB.pdf",
+    "bytes": 880746,
+    "sha256": "dde88f354eeb56393a4cf43f9b381d6e38fd59429afada04df00c6ec43c1c6f6"
+  },
+  {
+    "path": "podklady/BB.pdf",
+    "bytes": 802713,
+    "sha256": "4bb95312c0454c1cac35123384cf7196dcda38777841296ff260a8976a98aa2e"
+  },
+  {
+    "path": "podklady/CC.pdf",
+    "bytes": 799854,
+    "sha256": "17aa4c784eb26372209cf4bc6e354cd3df65d998a05c51eca5582b79837bdd9a"
+  },
+  {
+    "path": "podklady/CD.pdf",
+    "bytes": 849318,
+    "sha256": "bcee27a50f6b2ff81a7af2eb3e07bead312d019ab57951ff13575d49ccf19bd2"
+  },
+  {
+    "path": "podklady/DD.pdf",
+    "bytes": 833661,
+    "sha256": "87321a0a835ca1dfb59a4c31ad0de1adad075b36e3b408fe359dbcb208a7afc2"
+  },
+  {
+    "path": "podklady/EE.pdf",
+    "bytes": 865776,
+    "sha256": "3dd7638b241e03d61edc4d5484384c3b3ff2835cf15cd83d90c0dbd1617e71a1"
+  },
+  {
+    "path": "podklady/FF.pdf",
+    "bytes": 850425,
+    "sha256": "0757fa906544310b9a0483ae7107aeb5f4d991361984fe58a3a90faa6e8d0696"
+  },
+  {
+    "path": "podklady/P21.pdf",
+    "bytes": 648682,
+    "sha256": "466d23544cdea3f993c4e4d582b43b4566656bdea7bfd4e98c3f1795de094f0e"
+  },
+  {
+    "path": "podklady/P22.pdf",
+    "bytes": 593737,
+    "sha256": "d7cefb866cf131f32f45ce04971474ab5066eb599d3cb4f439f6939dc1da5673"
+  },
+  {
+    "path": "podklady/plans.dwg",
+    "bytes": 13982857,
+    "sha256": "152cb63c69cd448152f3fcfe00090a33d163dadf3aa57e70bac31745564d7f55"
+  },
+  {
+    "path": "podklady/sections.dwg",
+    "bytes": 6676173,
+    "sha256": "515d74ce85a9d20ffcb3fb2d4ceac88becb44f5d9225b8639287ae7018ffd8cd"
+  },
+  {
+    "path": "scripts/prepare_project.py",
+    "bytes": 7658,
+    "sha256": "937ff2d8f7fc6b97788a978271bf328891cf47289d1b2c48acca25f9bae8e728"
+  },
+  {
+    "path": "vrstva_zakladov.json",
+    "bytes": 1012,
+    "sha256": "0c22b15e8d729ab5b8a92593ffe52e7edf6ad9b97930769fea6137bbd41437f5"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_DMR_3D_vrstevnice.png",
+    "bytes": 1135186,
+    "sha256": "4c6e6ce2972d96ceeeaac7d8ba919be14499746d90dcd2d18cfa20b083664835"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_DMR_3D_vrstevnice_profil.png",
+    "bytes": 1113092,
+    "sha256": "79fde6418fa4ecf7082a4a22fa5b8ad5501270e4d56946afe241f2116a0e83e2"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_DMR_geologicky_profil.png",
+    "bytes": 1154206,
+    "sha256": "e17e327dabc263b5f6c9ed9b5092e2c6e0d15f49e67e692fb36db29a17d5a686"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_DWG_analyza.zip",
+    "bytes": 2759926,
+    "sha256": "a1c5e01abfb3b58e1cac16a8425cf3d85a3db8c29b1532396d77c8958fd0343f"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_interaktivny_teren.html",
+    "bytes": 6154152,
+    "sha256": "d2d8c367077c8223507e0bde092258399180c9042ec12c1e8246c8e97343d584"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_osadena_vrstva.zip",
+    "bytes": 12097829,
+    "sha256": "e3acdc60a3dc0d3dda9be4dd211a6761d798fb8180253c90d6dab31df5d34523"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_rez_teren_stavba.png",
+    "bytes": 350321,
+    "sha256": "a7e32f72b9743620cdad2f24573c80a59bc2567fc2a328b7df6d371e12fde952"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_situacia_nad_DMR.png",
+    "bytes": 3936018,
+    "sha256": "6f4ece56278948841f7ab72894808f27b830c9c5c5bb68e8d1bdbffb1c3419de"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_teren_rovina_258650.png",
+    "bytes": 908501,
+    "sha256": "4811c9291f40072c994e82a11ebf5d9b338207aa7d5f9b3a5f090d21fe72c0fd"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/00_Ortofoto_ZBGIS.tif",
+    "bytes": 9232824,
+    "sha256": "07fc5525e117c4a919a07c3e0993fb0f052353ca1aefe587b66396727bc1fee9"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/01_DMR6.tif",
+    "bytes": 559966,
+    "sha256": "be538ba91096d0668fd7026cd4b0085add4fb5cc5421fdce159de2190f03a45b"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/02_Situacia_linie.geojson",
+    "bytes": 1204909,
+    "sha256": "eba91e9cd8d9ceb9e8a798c55f8cacb2511154ca54625f99ebe6fb10e420585f"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/02_Situacia_orientacne.tif",
+    "bytes": 1108809,
+    "sha256": "e23656af3bca8f3b2a3c02b753114fa4f8d9fc242dede3c205275d253ad26af3"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/BD_STUROVA.qgs",
+    "bytes": 6874,
+    "sha256": "79a1990177b8f08325b423c1aeffd8eecaa9bcf2f7a0ae1867373a143dd24b04"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/README.txt",
+    "bytes": 1394,
+    "sha256": "ab38ef923cbe8a5d730abad735079bec6e226b4521c02dab28f1b538672ad31e"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/kontrolne_body.csv",
+    "bytes": 746,
+    "sha256": "bce25674f4ae28ce11f8e53bdcdbf0be0a7b29505ed429aebaaf0500c399d542"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_vrstvy/transformacia.json",
+    "bytes": 435,
+    "sha256": "76339b7b801b698643e3ee44fac7016868382db07cab7c36dfdf145e3330ed13"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/README.txt",
+    "bytes": 2107,
+    "sha256": "6b9e96a3c46ecea54ff3cfa723de7fafb4c86f9956fa5d01cd26c430a961dc46"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/aligned.json",
+    "bytes": 2784770,
+    "sha256": "7f766b97156cb5f3fee95b5ee96fac0ee7e9f3da35a151dec67514880abcf2dd"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/build_model.py",
+    "bytes": 10226,
+    "sha256": "fe6a8e2c15921d577d991c333805744a319bc219115c3af4a3db65ee347a573e"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/model_data.json",
+    "bytes": 75783,
+    "sha256": "ab8864c3758c7697fc403b38f224341abfc27295efb801953adb8011a7eb2621"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/necks.json",
+    "bytes": 41412,
+    "sha256": "8436f7f22724f1ffb5fbc8a2d65ced1d5f82c5e81df32c156be5e43bf9e14583"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/polygons.json",
+    "bytes": 11605,
+    "sha256": "3576805b48cc9770d504316a9ef86da0666cdb8d8fc2be688aaf0372f61312e9"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/prvky_a_vysky.csv",
+    "bytes": 7623,
+    "sha256": "9f6cd5bb1d295a860c73e803af24d9289030307f9b7e22662228e36b98a2ef43"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/section_text.json",
+    "bytes": 2029405,
+    "sha256": "957f0fc6db4e6f16f59a048f68450fa07aefa91c53090561544eccc818b246c7"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/zaklady_v01.glb",
+    "bytes": 92752,
+    "sha256": "37f1358daff3afa02ccb710c4bf8fbd7f3ffa5a5cb0a5e58ca32cb075338ce63"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/zaklady_v01.html",
+    "bytes": 4924506,
+    "sha256": "53c81a42f15461b8de771f54f905463da038d1e69ea3c3e340af9b5deac7293c"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/zaklady_v01.obj",
+    "bytes": 134049,
+    "sha256": "ec8c6c069c3984d082f93c4be9a3f267664580c0480751f3756985eacde14ee8"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01/zaklady_v01_nahlad.png",
+    "bytes": 598289,
+    "sha256": "3625a8b792e3515cc728d775d8fd8f07af2310bc4a60b1558bde402f9a9260be"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v01.zip",
+    "bytes": 2338407,
+    "sha256": "faba2a687009c7ab528459ee63d5b6f761dc10f1cac1df989dc1a2c3a383790c"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/README.txt",
+    "bytes": 1366,
+    "sha256": "a569187eae5774d14631b89b7a1bcaa40b8be6f9812ab708621d42ede93b8223"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/aligned.json",
+    "bytes": 2784770,
+    "sha256": "7f766b97156cb5f3fee95b5ee96fac0ee7e9f3da35a151dec67514880abcf2dd"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/build_model.py",
+    "bytes": 11230,
+    "sha256": "91706b57e8630c3b16bf41e0f94091e8c6309d8a199c2d29530badbcba151f25"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/model_data.json",
+    "bytes": 84778,
+    "sha256": "69c35b6637940fabee31e1a8e3622d3eddc371d052b88ebb3420f1c307480dc2"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/necks.json",
+    "bytes": 41412,
+    "sha256": "8436f7f22724f1ffb5fbc8a2d65ced1d5f82c5e81df32c156be5e43bf9e14583"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/neuzavrete_detaily.json",
+    "bytes": 7316,
+    "sha256": "36e851611ebfb1341791885fe911e932d3cb6fbbe0edfc8b9562fb30714a480b"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/polygons.json",
+    "bytes": 11605,
+    "sha256": "3576805b48cc9770d504316a9ef86da0666cdb8d8fc2be688aaf0372f61312e9"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/prvky_a_vysky.csv",
+    "bytes": 9034,
+    "sha256": "ec45d8cc25188d0988b6899d76eefbd59201d885a1dfa007c0bfe448116faae4"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/section_text.json",
+    "bytes": 2029405,
+    "sha256": "957f0fc6db4e6f16f59a048f68450fa07aefa91c53090561544eccc818b246c7"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/zaklady_v02.glb",
+    "bytes": 94112,
+    "sha256": "637bc0f8774aa44fc83bf668e9e2953a16b1d2cff0c2db64212b82682ff1b758"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/zaklady_v02.html",
+    "bytes": 4937237,
+    "sha256": "a49ead5a3170d233baa264fa994a6cccb82cc92ae4a517570c5c46d28bb56c75"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/zaklady_v02.obj",
+    "bytes": 135922,
+    "sha256": "5b63ec89bafcae4767e30009ec1b95b14702c3eb73fea59a87bac2205a570eaf"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02/zaklady_v02_nahlad.png",
+    "bytes": 618047,
+    "sha256": "76f1c74cd01c7d3aff6f2d8775a53aeb001d66d20998587724abbf5c36090b54"
+  },
+  {
+    "path": "vystupy/BD_STUROVA_zaklady_v02.zip",
+    "bytes": 2360085,
+    "sha256": "1a5d050317b08ed2583bd0a75b55b4b11fbc43bb874ebab7fcf83ff0899913f0"
+  }
+]

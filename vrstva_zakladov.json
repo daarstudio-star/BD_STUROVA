@@ -1,0 +1,19 @@
+{
+  "layer_id": "zaklady",
+  "name": "VRSTVA ZÁKLADOV",
+  "version": "0.2",
+  "trust_percent": 65,
+  "trust_method": "Orientačný odborný odhad; nie štatistická presnosť ani percento overených prvkov.",
+  "placement": "Lokálne CAD súradnice; osadenie do DMR neoverené.",
+  "model": "vystupy/BD_STUROVA_zaklady_v02/model_data.json",
+  "questions": [
+    "P31 a P41: Aká je presná spodná a horná výšková kóta?",
+    "T01 a T02: Kde začínajú a končia stupne medzi −3,870 a −3,670 m?",
+    "Rez C–C: Ktoré základy sú priamo rezané a ktoré sú v pohľade za rezom?",
+    "Obvodové krčky: Aký je úplný priebeh, prierez a výškové členenie?",
+    "Schodiskové jadrá: Kde prechádzajú úrovne −3,450, −3,670 a −3,900 m?",
+    "N11, N12, N23, N27, N55, N59, N60, N64 a N75: Aké sú kóty a napojenia?",
+    "Sú všetky styky pätiek, krčkov a pásov zhodné s pôdorysmi aj rezmi?",
+    "Je poloha a výškové pripojenie ±0,000 = 263,650 m overené voči DMR?"
+  ]
+}
