@@ -1,0 +1,168 @@
+﻿ID;Názov;Blok;Materiál;Spodok [m];Vrch [m];Spodok [m n. m.];Vrch [m n. m.];Rozmer X [mm];Rozmer Y [mm];Plocha [m²];Objem [m³];Pod prvkom;ID v0.2;Zdroj údaja;Poznámka
+ZS-01;Základový pás;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;21790;31890;125,547;100,4376;;F11;A – pôdorys základov, kóta;
+ZS-02;Základový pás;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;13930;18610;55,332;44,2656;;F20;A – pôdorys základov, kóta;
+ZS-03;Základový pás;B + CD-SV + CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;39160;60750;426,7727;341,4182;;F00;A – pôdorys základov, kóta;Doplnený otvor 3,07 m² v JZ jadre (v0.2 chýbal, obrys v DWG neuzavretý o 4 mm).
+ZS-04;Základový pás;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;17080;28760;136,346;109,0768;;F19;A – pôdorys základov, kóta;
+ZS-05;Základový pás;A + B;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;25130;15330;122,0875;97,67;;F10;A – pôdorys základov, kóta;
+ZS-06;Základový pás;A;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;7310;3030;12,871;10,2968;;F21;A – pôdorys základov, kóta;
+ZP-01;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2200;2400;5,28;4,224;;F37;A – pôdorys základov, kóta;
+ZP-02;Základová pätka;CD-SV + CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2400;2400;5,76;4,608;;F33;A – pôdorys základov, kóta;
+ZP-03;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2200;2400;5,28;4,224;;F38;A – pôdorys základov, kóta;
+ZP-04;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2200;2400;5,28;4,224;;F39;A – pôdorys základov, kóta;
+ZP-05;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2200;2400;5,28;4,224;;F36;A – pôdorys základov, kóta;
+ZP-06;Základová pätka;CD-SV + CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2400;2400;5,76;4,608;;F32;A – pôdorys základov, kóta;
+ZP-07;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2200;2400;5,28;4,224;;F35;A – pôdorys základov, kóta;
+ZP-08;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2200;2400;5,28;4,224;;F34;A – pôdorys základov, kóta;
+ZP-09;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2000;2200;4,4;3,52;;F40;A – pôdorys základov, kóta;
+ZP-10;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;4000;2000;8,0;6,4;;P41;"B – odvodené zo susedných F20, F40; v reze nie je";V0.2 bez objemu. Overiť.
+ZP-11;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F28;A – pôdorys základov, kóta;
+ZP-12;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2400;2200;5,28;4,224;;P31;A – rez F-F (kóty −5,400/−4,600, 800);V0.2 bez objemu.
+ZP-13;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F27;A – pôdorys základov, kóta;
+ZP-14;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2400;2200;5,28;4,224;;F26;A – pôdorys základov, kóta;
+ZP-15;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2400;2200;5,28;4,224;;F29;A – pôdorys základov, kóta;
+ZP-16;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2400;2200;5,28;4,224;;F30;A – pôdorys základov, kóta;
+ZP-17;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2500;2600;6,5;5,2;;F08;A – pôdorys základov, kóta;
+ZP-18;Základová pätka;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2500;2600;6,5;5,2;;F09;A – pôdorys základov, kóta;
+ZP-19;Základová pätka;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;2400;2400;5,76;4,608;;F25;A – pôdorys základov, kóta;
+ZP-20;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F01;A – pôdorys základov, kóta;
+ZP-21;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2400;2200;5,28;4,224;;F04;A – pôdorys základov, kóta;
+ZP-22;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F18;A – pôdorys základov, kóta;
+ZP-23;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F07;A – pôdorys základov, kóta;
+ZP-24;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2200;2000;4,4;3,52;;F02;A – pôdorys základov, kóta;
+ZP-25;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F16;A – pôdorys základov, kóta;
+ZP-26;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F17;A – pôdorys základov, kóta;
+ZP-27;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F06;A – pôdorys základov, kóta;
+ZP-28;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F15;A – pôdorys základov, kóta;
+ZP-29;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F14;A – pôdorys základov, kóta;
+ZP-30;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2600;2400;6,24;4,992;;F05;A – pôdorys základov, kóta;
+ZP-31;Základová pätka;B;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-4,2;258,65;259,45;2400;2200;5,28;4,224;;F03;A – pôdorys základov, kóta;
+ZP-32;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2600;2400;6,24;4,992;;F12;A – pôdorys základov, kóta;
+ZP-33;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,8;-5,0;257,85;258,65;2400;2200;5,28;4,224;;F13;A – pôdorys základov, kóta;
+ZP-34;Základová pätka;A + B;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;3600;2600;9,36;7,488;;F22;A – pôdorys základov, kóta;
+ZP-35;Základová pätka;A;"C25/30 – XC3, XD1, XA1; B500B";-5,4;-4,6;258,25;259,05;3600;2600;9,36;7,488;;F23;A – pôdorys základov, kóta;
+ZT-01;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;4200;400;1,24;0,93;;N47;A – pôdorys, kóta;
+ZT-02;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;13230;400;5,292;2,8048;;N54;A – pôdorys, kóta;
+ZT-03;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;6440;400;2,576;1,3653;;N52;A – pôdorys, kóta;
+ZT-04;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;12830;400;5,132;4,7728;;N49;A – pôdorys, kóta;
+ZT-05;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;2340;4540;2,592;1,944;;N53;A – pôdorys, kóta;
+ZT-06;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;4750;4540;3,116;2,337;;N51;A – pôdorys, kóta;
+ZT-07;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,45;259,05;260,2;4750;4630;3,152;3,6248;;N48;A – pôdorys, kóta;
+ZT-08;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,9;259,45;259,75;7060;7010;9,2062;2,7619;;N46;A – pôdorys, kóta;
+ZT-09;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;400;4540;1,816;1,6889;;N50;A – pôdorys, kóta;
+ZT-10;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,45;259,05;260,2;5380;7060;5,6;6,44;;N55;A – pôdorys, kóta −3,450/−4,600;V0.2 nedoriešené, doplnené.
+ZT-11;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;6140;500;2,7;2,025;;N57;A – pôdorys, kóta;
+ZT-12;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;6140;300;1,842;1,0663;;N79;A – pôdorys, kóta;Spodok rozdelený podľa vrchu základu pod prvkom (-4,200, -4,600).
+ZT-13;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;1630;2380;1,543;1,435;;N60;A – pôdorys, kóta −3,670/−4,600;V0.2 nedoriešené, doplnené.
+ZT-14;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;2700;400;1,08;1,0044;;N59;B – odvodené (P41 bez kót);V0.2 nedoriešené, doplnené.
+ZT-15;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;12280;400;4,912;2,7314;;N56;A – pôdorys, kóta;Spodok rozdelený podľa vrchu základu pod prvkom (-4,200, -4,600).
+ZT-16;Základový trám;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;17080;17650;13,732;7,278;;N10;A – pôdorys, kóta;
+ZT-17;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;12490;13110;10,08;9,3744;;N07;A – pôdorys, kóta;
+ZT-18;Základový trám;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;400;19430;7,772;7,228;;N04;A – pôdorys, kóta;
+ZT-19;Základový trám;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,45;259,05;260,2;4540;4550;2,622;3,0153;;N05;A – pôdorys, kóta;
+ZT-20;Základový trám;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;400;5150;2,06;1,9798;;N08;A – pôdorys, kóta;Spodok rozdelený podľa vrchu základu pod prvkom (-4,600, -5,000).
+ZT-21;Základový trám;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;300;5920;1,776;1,7417;;N26;A – pôdorys, kóta;Spodok rozdelený podľa vrchu základu pod prvkom (-4,600, -5,000).
+ZT-22;Základový trám;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,45;258,65;260,2;4540;2120;2,504;3,8492;;N03;A – pôdorys, kóta;Spodok rozdelený podľa vrchu základu pod prvkom (-4,600, -5,000).
+ZT-23;Základový trám;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;400;14160;5,664;7,5331;;N09;A – pôdorys, kóta;
+ZT-24;Základový trám;B + CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;11140;22210;16,398;8,8029;;N11;A – pôdorys, kóty −3,670/−4,200 v JZ jadre;V0.2 nedoriešené, doplnené. Spodok rozdelený podľa vrchu základu pod prvkom (-4,200, -4,600).
+ZT-25;Základový trám;B;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,87;259,05;259,78;6940;13680;14,568;10,6346;;T01;B – pracovná geometria v0.2 (koncové stupne);
+ZT-26;Základový trám;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,87;258,65;259,78;18890;13680;29,794;21,8776;;T02;B – pracovná geometria v0.2 (koncové stupne);Spodok rozdelený podľa vrchu základu pod prvkom (-4,600, -5,000).
+ZK-01;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,45;259,05;260,2;1940;400;0,776;0,646;;N64;A – pôdorys, kóta −3,450/−4,200;V0.2 nedoriešené, doplnené. Spodok rozdelený podľa vrchu základu pod prvkom (-4,200, -4,600).
+ZK-02;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;300;1490;0,447;0,3352;;N67;A – pôdorys, kóta;
+ZK-03;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,45;259,45;260,2;300;1484;0,4451;0,3338;;N63;A – pôdorys, kóta;
+ZK-04;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;300;1490;0,447;0,4157;;N61;A – pôdorys, kóta;
+ZK-05;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;650;0,325;0,1722;;N66;A – pôdorys, kóta;
+ZK-06;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;650;0,325;0,1722;;N76;A – pôdorys, kóta;
+ZK-07;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;350;650;0,2275;0,1206;;N58;A – pôdorys, kóta;
+ZK-08;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;350;650;0,2275;0,1206;;N62;A – pôdorys, kóta;
+ZK-09;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;650;0,325;0,1722;;N78;A – pôdorys, kóta;
+ZK-10;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;500;650;0,325;0,3022;;N82;A – pôdorys, kóta;
+ZK-11;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;500;650;0,325;0,3022;;N83;A – pôdorys, kóta;
+ZK-12;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;1000;500;0,5;0,465;;N86;A – pôdorys, kóta;
+ZK-13;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;650;0,325;0,1722;;N77;A – pôdorys, kóta;
+ZK-14;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;350;650;0,2275;0,1206;;N68;A – pôdorys, kóta;
+ZK-15;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;350;650;0,2275;0,1206;;N69;A – pôdorys, kóta;
+ZK-16;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;650;0,325;0,1722;;N80;A – pôdorys, kóta;
+ZK-17;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;500;650;0,325;0,3022;;N81;A – pôdorys, kóta;
+ZK-18;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;500;650;0,325;0,3022;;N84;A – pôdorys, kóta;
+ZK-19;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N72;A – pôdorys, kóta;
+ZK-20;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;500;700;0,35;0,1855;;N85;A – pôdorys, kóta;
+ZK-21;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;500;0,325;0,3023;;N75;A – rez F-F (kóta −3,670, 930);V0.2 nedoriešené, doplnené.
+ZK-22;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;400;22152;8,8608;4,6962;;;A – pôdorys, kóta -3,670/-4,200 pri prvku;Obvodový krčok / krčok jadra – v0.2 chýbal, geometria z dvojice čiar DWG.
+ZK-23;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N70;A – pôdorys, kóta;
+ZK-24;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N71;A – pôdorys, kóta;
+ZK-25;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;500;0,325;0,3022;;N73;A – pôdorys, kóta;
+ZK-26;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;500;0,325;0,3023;;N74;A – pôdorys, kóta;
+ZK-27;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;350;0,2275;0,1206;;N19;A – pôdorys, kóta;
+ZK-28;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;350;0,2275;0,1206;;N20;A – pôdorys, kóta;
+ZK-29;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;350;0,2275;0,1206;;N21;A – pôdorys, kóta;
+ZK-30;Základový krčok;CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;350;0,2275;0,1206;;N22;A – pôdorys, kóta;
+ZK-31;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;350;0,2275;0,2116;;N33;A – pôdorys, kóta;
+ZK-32;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;350;0,2275;0,2116;;N34;A – pôdorys, kóta;
+ZK-33;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;350;0,2275;0,2116;;N35;A – pôdorys, kóta;
+ZK-34;Základový krčok;CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;650;350;0,2275;0,2116;;N36;A – pôdorys, kóta;
+ZK-35;Základový krčok;A + CD-SV;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,45;259,05;260,2;1440;300;0,432;0,4968;;N24;A – pôdorys, kóta;
+ZK-36;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N14;A – pôdorys, kóta;
+ZK-37;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N15;A – pôdorys, kóta;
+ZK-38;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4322;;N45;A – pôdorys, kóta;
+ZK-39;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4323;;N25;A – pôdorys, kóta;
+ZK-40;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N28;A – pôdorys, kóta;
+ZK-41;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N29;A – pôdorys, kóta;
+ZK-42;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4322;;N39;A – pôdorys, kóta;
+ZK-43;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4323;;N40;A – pôdorys, kóta;
+ZK-44;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N16;A – pôdorys, kóta;
+ZK-45;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;2300;400;0,524;0,6969;;N12;B – odvodené z kóty −3,670/−5,000 pri JV jadre;V0.2 nedoriešené, doplnené.
+ZK-46;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4322;;N42;A – pôdorys, kóta;
+ZK-47;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4323;;N41;A – pôdorys, kóta;
+ZK-48;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;400;26090;10,436;13,8799;;;A – pôdorys, kóta -3,670/-5,000 pri prvku;Obvodový krčok / krčok jadra – v0.2 chýbal, geometria z dvojice čiar DWG.
+ZK-49;Základový krčok;B + CD-SZ;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;13280;32810;18,276;9,6863;;;A – pôdorys, kóta -3,670/-4,200 pri prvku;Obvodový krčok / krčok jadra – v0.2 chýbal, geometria z dvojice čiar DWG.
+ZK-50;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;300;1770;0,531;0,7062;;N23;B – odvodené z kóty −3,670/−5,000 pri JV jadre;V0.2 nedoriešené, doplnené.
+ZK-51;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N17;A – pôdorys, kóta;
+ZK-52;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,2;-3,67;259,45;259,98;650;500;0,325;0,1723;;N18;A – pôdorys, kóta;
+ZK-53;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4322;;N43;A – pôdorys, kóta;
+ZK-54;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;650;500;0,325;0,4323;;N44;A – pôdorys, kóta;
+ZK-55;Základový krčok;B;"C25/30 – XC3, XD1, XA1; B500B";-4,6;-3,67;259,05;259,98;6605;8950;6,062;3,3801;;;A – pôdorys, kóta -3,670/-4,200 pri prvku;Obvodový krčok / krčok jadra – v0.2 chýbal, geometria z dvojice čiar DWG. Spodok rozdelený podľa vrchu základu pod prvkom (-4,200, -4,600).
+ZK-56;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;13280;11350;9,692;12,8904;;;A – pôdorys, kóta -3,670/-5,000 pri prvku;Obvodový krčok / krčok jadra – v0.2 chýbal, geometria z dvojice čiar DWG.
+ZK-57;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;900;400;0,36;0,4788;;N27;B – odvodené z kóty −3,670/−5,000 pri JV jadre;V0.2 nedoriešené, doplnené.
+ZK-58;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;760;500;0,38;0,5054;;N37;A – pôdorys, kóta;
+ZK-59;Základový krčok;A;"C25/30 – XC3, XD1, XA1; B500B";-5,0;-3,67;258,65;259,98;760;500;0,38;0,5054;;N38;A – pôdorys, kóta;
+PB-ZP-01;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2200;2400;5,28;0,528;ZP-01;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-02;Podkladný betón;CD-SV + CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2400;2400;5,76;0,576;ZP-02;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-03;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2200;2400;5,28;0,528;ZP-03;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-04;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2200;2400;5,28;0,528;ZP-04;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-05;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2200;2400;5,28;0,528;ZP-05;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-06;Podkladný betón;CD-SV + CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2400;2400;5,76;0,576;ZP-06;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-07;Podkladný betón;CD-SV;C16/20;-5,1;-5,0;258,55;258,65;2200;2400;5,28;0,528;ZP-07;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-08;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2200;2400;5,28;0,528;ZP-08;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-09;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2000;2200;4,4;0,44;ZP-09;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-10;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;4000;2000;8,0;0,8;ZP-10;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-11;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-11;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-12;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2400;2200;5,28;0,528;ZP-12;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-13;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-13;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-14;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2400;2200;5,28;0,528;ZP-14;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-15;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2400;2200;5,28;0,528;ZP-15;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-16;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2400;2200;5,28;0,528;ZP-16;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-17;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2500;2600;6,5;0,65;ZP-17;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-18;Podkladný betón;CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;2500;2600;6,5;0,65;ZP-18;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-19;Podkladný betón;CD-SV;C16/20;-5,5;-5,4;258,15;258,25;2400;2400;5,76;0,576;ZP-19;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-20;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-20;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-21;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2400;2200;5,28;0,528;ZP-21;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-22;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-22;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-23;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-23;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-24;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2200;2000;4,4;0,44;ZP-24;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-25;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-25;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-26;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-26;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-27;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-27;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-28;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-28;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-29;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-29;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-30;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2600;2400;6,24;0,624;ZP-30;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-31;Podkladný betón;B;C16/20;-5,1;-5,0;258,55;258,65;2400;2200;5,28;0,528;ZP-31;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-32;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2600;2400;6,24;0,624;ZP-32;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-33;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;2400;2200;5,28;0,528;ZP-33;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-34;Podkladný betón;A + B;C16/20;-5,5;-5,4;258,15;258,25;3600;2600;9,36;0,936;ZP-34;;A – statický posudok: 100 mm, C16/20;
+PB-ZP-35;Podkladný betón;A;C16/20;-5,5;-5,4;258,15;258,25;3600;2600;9,36;0,936;ZP-35;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-01;Podkladný betón;A + CD-SV;C16/20;-5,5;-5,4;258,15;258,25;21790;31890;125,547;12,5547;ZS-01;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-02;Podkladný betón;A + CD-SV;C16/20;-5,5;-5,4;258,15;258,25;13930;18610;55,332;5,5332;ZS-02;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-03;Podkladný betón;B + CD-SV + CD-SZ;C16/20;-5,1;-5,0;258,55;258,65;39160;60750;426,7727;42,6773;ZS-03;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-04;Podkladný betón;A;C16/20;-5,9;-5,8;257,75;257,85;17080;28760;136,346;13,6346;ZS-04;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-05;Podkladný betón;A + B;C16/20;-5,5;-5,4;258,15;258,25;25130;15330;122,0875;12,2087;ZS-05;;A – statický posudok: 100 mm, C16/20;
+PB-ZS-06;Podkladný betón;A;C16/20;-5,5;-5,4;258,15;258,25;7310;3030;12,871;1,2871;ZS-06;;A – statický posudok: 100 mm, C16/20;
